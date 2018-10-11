@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Adrish/Downloads/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Crawler/Scenes/CrawlerDynamicTarget.unity
+  isLoaded: 1
+  isActive: 1

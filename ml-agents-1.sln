@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ml-agents-1", "ml-agents-1.csproj", "{E0D560B1-39C3-A346-19EE-043B2F04DA2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ml-agents-1.Editor", "ml-agents-1.Editor.csproj", "{231A9AB8-15F9-CF26-CB79-E81401FE37EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0D560B1-39C3-A346-19EE-043B2F04DA2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0D560B1-39C3-A346-19EE-043B2F04DA2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0D560B1-39C3-A346-19EE-043B2F04DA2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0D560B1-39C3-A346-19EE-043B2F04DA2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{231A9AB8-15F9-CF26-CB79-E81401FE37EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{231A9AB8-15F9-CF26-CB79-E81401FE37EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{231A9AB8-15F9-CF26-CB79-E81401FE37EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{231A9AB8-15F9-CF26-CB79-E81401FE37EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

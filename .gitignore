@@ -1,0 +1,12 @@
+Assets/ML-Agents/Plugins/Computer/liblibtensorflow.so
+
+Assets/ML-Agents/Plugins/Computer/libtensorflow.bundle
+
+Assets/ML-Agents/Plugins/Computer/libtensorflow.dll
+
+Assets/ML-Agents/Plugins/iOS/libprotobuf.a
+
+env/ball3denv_Data/Plugins/libtensorflow.dll
+
+.vs/
+upload/
